@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270512956341",
+    "project_id": "metachat-4f80d",
+    "storage_bucket": "metachat-4f80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270512956341:android:314c999777a71be9da2ffc",
+        "android_client_info": {
+          "package_name": "com.example.metachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270512956341-67iu3kv7ltdtlqdlaqik27e7nuidaalj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxEH2AvR1c5WwcHHTm4XPToHHsHqEGcE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270512956341-67iu3kv7ltdtlqdlaqik27e7nuidaalj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
